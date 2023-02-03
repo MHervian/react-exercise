@@ -1,0 +1,28 @@
+/* Untuk jam */
+.jam {
+    font-size: 3rem;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+/* Untuk tombol pengontrol */
+.pengontrol {
+    display: flex;
+    justify-content: space-between;
+}
+.pengontrol button {
+    flex: 26%;
+    padding: 1rem 0;
+    text-align: center;
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+
+/* Untuk timer */
+.timer {
+    width: 700px;
+    margin: 5rem auto;
+    padding: 1.5rem;
+    border: 2px solid black;
+    border-radius: 5px;
+}
